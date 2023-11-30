@@ -1,6 +1,6 @@
 # Flashcards API
 
-A backend API for a flashcards app.
+A backend API for a flashcards app utilizing Postgres SQL.
 
 ## Installation
 
