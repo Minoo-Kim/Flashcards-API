@@ -1,6 +1,6 @@
 # Flashcards API
 
-A simple API for a flashcards app.
+A backend API for a flashcards app.
 
 ## Installation
 
